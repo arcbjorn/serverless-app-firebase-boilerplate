@@ -1,6 +1,6 @@
 ### Serveress app set up
 
-using Firebase functions, firestore & emilators
+using Firebase functions, firestore & emulators
 
 ### Development
 
